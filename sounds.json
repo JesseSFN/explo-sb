@@ -2,49 +2,61 @@
   {
     "person": "Aad",
     "file": "aad_chefke.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_nee_nou_hoeft_het_niet_meer.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_opschieten.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_opschieten2.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_roelie.mp3"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_schiet_nou_is_op.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aad_verdronken_kip.wav"
+    "sfw": "ja"
   },
   {
     "person": "Aad",
     "file": "aadencasper_rien_en_kees.wav"
+    "sfw": "nee"
   },
   {
     "person": "Casper",
     "file": "casper_chefke.wav"
+    "sfw": "ja"
   },
   {
     "person": "Casper",
     "file": "casper_dikke_frat.wav"
+    "sfw": "ja"
   },
   {
     "person": "Casper",
     "file": "aadencasper_rien_en_kees.wav"
+    "sfw": "nee"
   },
   {
     "person": "Jesse",
     "file": "jesse_neus.wav"
+    "sfw": "nee"
   },
 ]
